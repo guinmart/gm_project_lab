@@ -14,4 +14,8 @@ another lin
 and work-safe) lat change
 9. Save and close file
 
+Hello
+I am
+Sarah
+
 end line
