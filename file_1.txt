@@ -5,6 +5,7 @@ added 1.a
 4. Click Text Document
 -------3rd
 5. Name text document file_1
+ddddddddd
 6. Press: Enter
 another lin
 7. Double-click on file_1.txt
