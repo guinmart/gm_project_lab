@@ -3,6 +3,7 @@ added 1.a
 2. Right-click on open space inside folder
 3. Point cursor to New
 4. Click Text Document
+-------3rd
 5. Name text document file_1
 6. Press: Enter
 another lin
