@@ -1,9 +1,11 @@
 1. Double-click on YourInitials_git_lab
+added 1.a
 2. Right-click on open space inside folder
 3. Point cursor to New
 4. Click Text Document
 5. Name text document file_1
 6. Press: Enter
+another lin
 7. Double-click on file_1.txt
 8. Insert 3 lines of text into blank file (Feel free to be creative but keep it short
 and work-safe)
