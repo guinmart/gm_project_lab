@@ -10,7 +10,7 @@ ddddddddd
 another lin
 7. Double-click on file_1.txt
 8. Insert 3 lines of text into blank file (Feel free to be creative but keep it short
-and work-safe)
+and work-safe) lat change
 9. Save and close file
 
 end line
