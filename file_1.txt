@@ -1,6 +1,7 @@
 1. Double-click on YourInitials_git_lab
 added 1.a
 2. Right-click on open space inside folder
+one change master
 3. Point cursor to New
 4. Click Text Document
 -------3rd
