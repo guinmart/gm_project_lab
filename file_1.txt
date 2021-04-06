@@ -1,10 +1,10 @@
 1. Double-click on YourInitials_git_lab
 added 1.a
 2. Right-click on open space inside folder
-one change master
+one change mastererrwewerwer
 3. Point cursor to New
 4. Click Text Document
--------3rd
+-------3rdrrrrr
 5. Name text document file_1
 ddddddddd
 6. Press: Enter
